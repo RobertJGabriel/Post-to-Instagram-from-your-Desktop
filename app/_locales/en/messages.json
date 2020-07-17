@@ -1,10 +1,10 @@
 {
   "appName": {
-    "message": "Post to Instagram from your Desktop.",
-    "description": "The name of the application"
+    "message": "Post to Instagram from your Desktop",
+    "description": "Post to Instagram from your Desktop"
   },
   "appDescription": {
-    "message": "Post to Instagram from your PC or Browser.",
+    "message": "Post to Instagram from your PC or Browser. Direct message from desktop, post stories and all.",
     "description": "The description of the application"
   }
 }
